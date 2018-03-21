@@ -41,6 +41,10 @@ p {
     color: #cea800;
 }
 
+#gametitle {
+    font-style:italic;
+}
+
 li {
     color: #cea800;
 }
