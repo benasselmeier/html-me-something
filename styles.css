@@ -1,6 +1,6 @@
 html {
     background-color:#041024;
-    background-image:url("Images/SA.png")
+    background-image:url("Images/SA.png");
 }
 
 body {
@@ -45,10 +45,6 @@ p {
     font-style:italic;
 }
 
-li {
-    color: #cea800;
-}
-
 .image {
     display:block;
     margin:0 auto;
@@ -62,10 +58,15 @@ li {
 div img {
     max-width:600px;
     max-height:400px;
+    min-width:400px;
     width:auto;
     height:auto;
 }
 
 span {
-    font-style:italic;
+    color:#ffcc8e
+}
+
+li {
+    color:#ffcc8e
 }
