@@ -65,3 +65,7 @@ div img {
     width:auto;
     height:auto;
 }
+
+span {
+    font-style:italic;
+}
