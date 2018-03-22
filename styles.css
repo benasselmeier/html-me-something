@@ -70,3 +70,9 @@ span {
 li {
     color:#ffcc8e
 }
+
+footer {
+    text-align:center;
+    font-style:italic;
+    color: grey;
+}
